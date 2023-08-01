@@ -57,4 +57,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [☆ 𝗖ο𝗗є𝙓 ☆](https://github.com/MrHacker5575) ғᴏʀ [ᴄᴏᴅᴇx ᴍᴜsɪᴄ](https://github.com/MrHacker5575/SK_musicbot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [☆ 𝗖ο𝗗є𝙓 ☆](https://github.com/MrHacker5575) ғᴏʀ [ᴄᴏᴅᴇx ᴍᴜsɪᴄ](https://github.com/MrHacker5575/CoDeX-MuSicBoT)_ </b>
