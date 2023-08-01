@@ -1,7 +1,7 @@
 {
-    "name": "ᴘʜᴀɴᴛᴏᴍ ダ ᴍᴜsɪᴄ",
+    "name": "⚡🇨Ⓞ𝗗𝜩🇽⚡",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/14c628ff007322601d361.jpg",
+    "logo": "https://graph.org/file/96827e441b7a879a6fe55.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20310034",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "e0d2c11f4ba291ce596868e73df87519",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://yashsamrat32169:ylWiINR00JzSqwhP@cluster0.j44oov2.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴘʜᴀɴᴛᴏᴍ ダ ᴍᴜsɪᴄ",
+        "value": "ᴄᴏᴅᴇx ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6068930098",
         "required": true
       },
       "STRING_SESSION": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "4e713fcc-8834-4d9a-9008-d8eb565ce8c5 ",
         "required": false
       },
       "HEROKU_APP_NAME": {
