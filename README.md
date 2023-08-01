@@ -6,18 +6,6 @@
   <img src="https://graph.org/file/d4b0333c5f77f8bb92344.jpg">
 </p>
 
-<p align="center">
-<a href="https://github.com/MrHacker5575/CoDeX-MuSicBoT/stargazers"><img src="https://img.shields.io/github/stars/MrHacker5575/CoDeX-MuSicBoT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/MrHacker5575/CoDeX-MuSicBoT/network/members"> <img src="https://img.shields.io/github/forks/MrHacker5575/CoDeX-MuSicBoT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/MrHacker5575/CoDeX-MuSicBoT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/MrHacker5575/CoDeX-MuSicBoT/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/MrHacker5575/CoDeX-MuSicBoT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://telegra.ph/file/b11d2a1aecf02143b96c7.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
