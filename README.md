@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ˹ρнαηтσм ✘ 𝐌ᴜsɪ𝐂˼ 」──
+    ──「 ᴄᴏᴅᴇx ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/6b6c8ae11dd94dd03d93a.jpg">
+  <img src="https://graph.org/file/d4b0333c5f77f8bb92344.jpg">
 </p>
 
 <p align="center">
