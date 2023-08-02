@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await Anon.start()
     try:
-        await Anon.stream_decall("https://telegra.ph/file/5489a6361a75c1c6d14e1.jpg")
+        await Anon.stream_decall("https://telegra.ph/file/c5952790fa8235f499749.jpg")
     except:
         pass
     try:
         await Anon.stream_call(
-            "https://telegra.ph/file/5489a6361a75c1c6d14e1.jpg"
+            "https://telegra.ph/file/c5952790fa8235f499749.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
