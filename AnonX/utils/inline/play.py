@@ -235,16 +235,16 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/about_skshivam"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Heart_Connecrion"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/fun_here"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Heart_Connecrion"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/itsz_shivam"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Heart_Connecrion"
             ),
         
             InlineKeyboardButton(
@@ -479,16 +479,16 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/about_skshivam"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/Heart_Connecrion"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/fun_here"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Heart_Connecrion"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/itsz_shivam"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Heart_Connecrion"
             ),
         
             InlineKeyboardButton(
