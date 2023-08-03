@@ -75,34 +75,34 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/48523385d5140ef166d6b.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/7bc89adba85c3881193d0.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
     "https://graph.org/file/d4b0333c5f77f8bb92344.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-GLOBAL_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-STATS_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+STATS_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-TELEGRAM_AUDIO_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-TELEGRAM_VIDEO_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-STREAM_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+STREAM_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-SOUNCLOUD_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-YOUTUBE_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/48523385d5140ef166d6b.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
 
 def time_to_seconds(time):
@@ -129,9 +129,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://graph.org/file/d4b0333c5f77f8bb92344.jpg"
+            PING_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://graph.org/file/d4b0333c5f77f8bb92344.jpg"
+            START_IMG_URL = "https://graph.org/file/7bc89adba85c3881193d0.jpg"
