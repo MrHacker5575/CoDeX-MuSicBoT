@@ -173,12 +173,12 @@ async def start_comm(client, message: Message, _):
 ● 📡 **𝐋𝐢𝐧𝐤 ➪ [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})**☆.♡
 •✰˚♫. * ● ¸ . ★ .¸¸♡¸¸★ :●. *°☆ ¸. ● .. ✷
 
-☆..........𝙱𝚈 » [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/Heart_Connection)..........☆"""
+☆..........𝙱𝚈 » [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/UNIQUE_KING_475)..........☆"""
             key = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="🥀𝐘𝐎𝐔𝐓𝐔𝐁𝐄🥀", url=f"{link}"
+                            text="✨𝐎𝐖𝐍𝐄𝐑 ⚡", url=f"https://t.me/UNIQUE_KING_475"
                         ),
                         InlineKeyboardButton(
                             text="🏓𝐒𝐔𝐏𝐏𝐎𝐑𝐓🏓", url="https://t.me/Heart_Connection"
